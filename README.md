@@ -14,6 +14,6 @@
 
 
 ## Model Predictions
-<h3 align="center">
-  <img src="Images/unet_out.png" width="500">
+<h3 align="left">
+  <img src="Images/unet_out.png" width="1000">
 </h3>
