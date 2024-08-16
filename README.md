@@ -46,7 +46,7 @@ pip install torch pandas numpy
 ## 🌆 Dataset: Cityscapes
 
 <p align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cityscapes-dataset.com%2F&psig=AOvVaw3g-rxvsYvA6NIwPz1CWrj2&ust=1723899443500000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLC1-IfI-YcDFQAAAAAdAAAAABAE" alt="Cityscapes Dataset Logo" width="400">
+  <img src="https://www.cityscapes-dataset.com/berlin00056_img_small/" alt="Cityscapes Dataset Logo" width="400">
 </p>
 
 The **Cityscapes Dataset** is a large-scale benchmark dataset used for training and evaluating models for semantic urban scene understanding. 
