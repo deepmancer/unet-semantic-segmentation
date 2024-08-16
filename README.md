@@ -45,10 +45,6 @@ pip install torch pandas numpy
 
 ## 🌆 Dataset: Cityscapes
 
-<p align="center">
-  <img src="https://www.cityscapes-dataset.com/berlin00056_img_small/" alt="Cityscapes Dataset Logo" width="400">
-</p>
-
 The **Cityscapes Dataset** is a large-scale benchmark dataset used for training and evaluating models for semantic urban scene understanding. 
 
 ### Dataset Overview
@@ -58,12 +54,8 @@ The **Cityscapes Dataset** is a large-scale benchmark dataset used for training 
 - **Classes**: 19 object classes, including roads, cars, pedestrians, buildings, and more
 - **Annotations**: High-quality pixel-level annotations
 
-### Why Cityscapes?
-
-Cityscapes provides a rich, diverse set of urban scenes that are crucial for developing robust models for autonomous driving. The detailed pixel-level annotations allow the UNet model to learn fine-grained distinctions between different objects in complex urban environments.
-
 <p align="center">
-  <img src="https://www.cityscapes-dataset.com/wp-content/uploads/2015/07/cityscapes_thumbnail.png" alt="Cityscapes Sample Image" width="600">
+  <img src="https://production-media.paperswithcode.com/datasets/Cityscapes-0000003437-d7b741b4.jpg" alt="Cityscapes Sample Image" width="600">
 </p>
 
 ---
